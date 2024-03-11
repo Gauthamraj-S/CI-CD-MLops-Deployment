@@ -2,7 +2,8 @@ pandas
 numpy
 seaborn
 matplotlib
-from  sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plt
-
+scikit-learn
+xgboost
+catboost
+Flask
 #-e .
